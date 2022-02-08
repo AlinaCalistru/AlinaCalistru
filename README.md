@@ -3,7 +3,13 @@
 - 🌱 I’m currently working with JS and React.
 - 💞️ I’m looking to collaborate on React Frontend Development Projects. 
 
-- 📝 I obtained certifications in [Microsoft - Programming in HTML5 with JavaScript and CSS3, Microsoft- Azure Fundamentals, Microsoft - T-SQL, Microsoft - Power Platform App Maker Associate, PCEP - Entry Level Python Programmer, Scrum.org - Professional Scrum Master I]
+- 📝 I obtained certifications in:
+  - Microsoft - Programming in HTML5 with JavaScript and CSS3,  
+  - Microsoft- Azure Fundamentals,  
+  - Microsoft - T-SQL,   
+  - Microsoft - Power Platform App Maker Associate,   
+  - PCEP - Entry Level Python Programmer,   
+  - Scrum.org - Professional Scrum Master I
 - 📫 How to reach me: Just send me an email at **alina.e.calistru@gmail.com**
 - ⚡ Fun fact **I play piano 🎹**
 
