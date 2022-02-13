@@ -3,7 +3,8 @@
 - 🌱 I’m currently working with JS and React.
 - 💞️ I’m looking to collaborate on React Frontend Development Projects. 
 
-- 📝 I obtained certifications in:
+- 📝 I obtained the following certifications:
+  - Scrimba - Frontend Developer Career Path,
   - Microsoft - Programming in HTML5 with JavaScript and CSS3,  
   - Microsoft- Azure Fundamentals,  
   - Microsoft - T-SQL,   
