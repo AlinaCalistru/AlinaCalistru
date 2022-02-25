@@ -2,7 +2,7 @@
 - 🌎 View my portfolio here https://alina-calistru.netlify.app/
 - 👀 I’m interested in Frontend Development technologies.
 - 🌱 I’m currently working with JS and React.
-- 💞️ I’m looking to collaborate on React Frontend Development Projects. 
+- 💞️ I’m looking to collaborate on Frontend Development Projects. 
 
 - 📝 I obtained the following certifications:
   - Scrimba - Frontend Developer Career Path,
