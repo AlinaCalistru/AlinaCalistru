@@ -13,7 +13,7 @@
   - PCEP - Entry Level Python Programmer,   
   - Scrum.org - Professional Scrum Master I
 - 📫 How to reach me: Just send me an email at **alina.e.calistru@gmail.com**
-- ⚡ Fun fact **I play piano 🎹** and play **CATAN**
+- ⚡ Fun fact **I play piano 🎹** and play **CATAN 🎲**
 
 ### Connect with me:
   https://www.linkedin.com/in/alina-calistru
@@ -39,7 +39,7 @@
               <img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/>
               <img src="https://img.icons8.com/color/48/000000/git.png"/>
               <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-scrum-scrum-development-flat-flat-juicy-fish-11.png"/>
-             <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-agile-agile-development-soft-fill-soft-fill-juicy-fish-26.png"/>
+              <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-agile-agile-development-soft-fill-soft-fill-juicy-fish-26.png"/>
               <img src="https://img.icons8.com/color/48/000000/trello.png"/>
               <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
               <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
