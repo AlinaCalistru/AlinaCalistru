@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alina
-- 🌎 View my portfolio here https://alina-calistru.netlify.app/
+- 🌎 You can view my portfolio here **https://alina-calistru.netlify.app/**
 - 👀 I’m interested in Frontend Development technologies.
 - 🌱 I’m currently working with JS, CSS,SASS, HTML and React.
 - 💞️ I’m looking to collaborate on Frontend Development Projects. 
